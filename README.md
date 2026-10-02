@@ -29,7 +29,7 @@ Testado em **Ubuntu 24.04** e **Ubuntu 26.04**, em instalação limpa (cerca de 
 Baixe, **leia o script** e só então execute:
 
 ```bash
-wget https://github.com/lucasmokan/zabbix-8rc1-install/blob/main/zabbix-8.0-rc1-instalacao.sh
+wget wget https://raw.githubusercontent.com/lucasmokan/zabbix-8rc1-install/main/zabbix-8.0-rc1-instalacao.sh
 chmod +x zabbix-8.0-rc1-instalacao.sh
 sudo ./zabbix-8.0-rc1-instalacao.sh
 ```
